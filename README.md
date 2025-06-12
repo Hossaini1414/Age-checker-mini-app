@@ -14,11 +14,17 @@ Clean and responsive UI using Tailwind CSS
 Age category classification:
 
 Infant: 0–2
+
 Toddler: 3–5
+
 Child: 6–12
+
 Teenager: 13–17
+
 Young Adult: 18–25
+
 Adult: 26–45
+
 Senior: 46+
 
 🚀 How to Use
